@@ -171,7 +171,7 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background: url('https://github.com/batuhan-dilek99/batuhan-dilek99.github.io/blob/main/images/680350.jpg');
+        background: url('../images/680350.jpg');
         background-size: cover;
         opacity: 1;
         background-repeat: no-repeat;
