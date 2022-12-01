@@ -171,8 +171,9 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background: url('../images/home-bg.jpg');
+        background: url('https://i.gifer.com/bJk.gif');
         background-size: cover;
+        opacity: 1;
         background-repeat: no-repeat;
         padding-top: 120px;
         padding-bottom: 140px;
